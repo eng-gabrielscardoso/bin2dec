@@ -1,0 +1,12 @@
+#!/usr/bin/php
+<?php
+
+include("./src/App.php");
+
+function main() {
+    $app = new App();
+
+    $app->run();
+}
+
+main();

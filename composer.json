@@ -1,0 +1,16 @@
+{
+    "name": "gabriel/bin2dec",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Gabriel\\Bin2dec\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gabriel Santos Cardoso",
+            "email": "eng.gabrielscardoso@gmail.com"
+        }
+    ],
+    "require": {}
+}
